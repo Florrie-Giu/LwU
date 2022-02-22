@@ -50,4 +50,4 @@ The file takes the following arguments
 
 
 # Acknowledgements
-This code is built on [MAS-PyTorch](https://github.com/wannabeOG/MAS-PyTorch), [iCaRL](https://github.com/srebuffi/iCaRL) and [Continual Learning Benchmark](https://github.com/GT-RIPL/Continual-Learning-Benchmark). We thank the authors for sharing their codes.
+This code is built on [DRN](https://github.com/guoyongcs/DRN), [MAS-PyTorch](https://github.com/wannabeOG/MAS-PyTorch), [iCaRL](https://github.com/srebuffi/iCaRL) and [Continual Learning Benchmark](https://github.com/GT-RIPL/Continual-Learning-Benchmark). We thank the authors for sharing their codes.
