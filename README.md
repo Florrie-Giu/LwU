@@ -1,5 +1,5 @@
 # LwU
-Learn while using：A super-resolution method with  application environment adaptive ability
+Learning while Using : Defying forgetting in Medical Super-Resolution Tasks
 
 Description of the files in this repository
 ---------------------------------------------------
